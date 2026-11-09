@@ -8,10 +8,10 @@ This repository serves as a portfolio project demonstrating modern automated tes
 
 ## Tech Stack
 
- **Test Runner:** [Playwright](https://playwright.dev/)
- **Language:** JavaScript / TypeScript
- **Design Pattern:** Page Object Model (POM)
- **Reporting:** Playwright HTML Reporter
+* **Test Runner:** [Playwright](https://playwright.dev/)
+* **Language:** JavaScript / TypeScript
+* **Design Pattern:** Page Object Model (POM)
+* **Reporting:** Playwright HTML Reporter
 
 ---
 
